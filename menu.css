@@ -8,8 +8,8 @@
     justify-content: center;
     align-items: center;
     color: white;
-    background-color: #950E17;
-    font-size: 5vmax;
+    background-color: #04c52b;
+    font-size: 6vmax;
     cursor: pointer;    /* en ordinadors, indica que s'hi pot fer clic */
 }
 html { 
@@ -31,9 +31,9 @@ body {
     height: 8vmax;    /* alçària d'un 8% respecte l'alçària de la pantalla */
     justify-content: center;    /* centra els elements en la direcció de disposició */
     align-items: center;    /* centra els elements en la direcció perpendicular a la de disposició */
-    font-size: 4vmax;    /* mida d'un 4% respecte l'alçària de la pantalla */
+    font-size: 8vmax;    /* mida d'un 4% respecte l'alçària de la pantalla */
     color: white;    /* color del text */
-    background-color: #950E17;    /* color de fons */
+    background-color: #04c52b;    /* color de fons */
 }.seccio {
     flex: 1;    /* les seccions ocupen tot l'espai disponible */
     display: none;    /* les seccions s'inicien ocultes, excepte la primera */
